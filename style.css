@@ -1,11 +1,11 @@
 body{
 h1 {
-  background-color: green;
+  text-decoration-color: green;
 }
 h2 {
-  background-color: blue;
+  text-decoration-color: blue;
 }
 h3 {
-  background-color: red;
+  text-decoration-color: red;
 }
 }
