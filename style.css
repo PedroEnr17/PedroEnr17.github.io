@@ -10,4 +10,7 @@ h2{
 h3{
     color: violet;
 }
-
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
