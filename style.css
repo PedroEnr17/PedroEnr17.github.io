@@ -23,13 +23,12 @@ height: 100px;
 height: 600px;}
 
 :root {
-    --cor-base: #00ffea;
-background-color: var(--cor-base);
---azul: #34ebe8;
---amarelo: #ebe534;
---botao-ativo: #071ae8;
---botao-inativo: #84218a;
-
-
+    --cor-de-fundo: #1E1E1E;
+    --verde: #6FFF57;
+    --branco: #FFFFFF;
+    --botao-ativo: #3A375E;
+    --botao-inativo: rgba(58, 55, 94, 0.5);
+    --texto-fundo: rgba(58, 55, 94, 0.3);
 }
+
 
