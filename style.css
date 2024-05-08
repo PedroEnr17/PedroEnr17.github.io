@@ -22,8 +22,9 @@ height: 100px;
 .imgdif { width: 300px;
 height: 600px;}
 
-:root{
---background-color: #1e1e1e;
+:root {
+    --cor-base: #00ffea;
+background-color: var(--cor-base);
 --azul: #34ebe8;
 --amarelo: #ebe534;
 --botao-ativo: #071ae8;
