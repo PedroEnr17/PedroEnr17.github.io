@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Inicial</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.min.js" integrity="sha384-Rx+T1VzGupg4BHQYs2gCW9It+akI2MM/mndMCy36UVfodzcJcF0GGLxZIzObiEfa" crossorigin="anonymous"></script>
+</head>
+<body>
+    <h1>Sofia S.</h1>
+    <h2>Pedro E.</h2>
+    <h3>Leonardo L.</h3>
+    <div class = "container">
+                    <div class = "row">
+                
+                                <div class = "col">
+                                    <img src="Banguela.png">
+                                </div>
+                                <div class = "col">
+                                    <img src="furia da luz.png">
+                                </div>
+                                <div class = "col">
+                                    <img src="Banguela.png">
+                                </div>
+                                <div class = "col">
+                                    <img src="furia da luz.png">
+                                </div>
+                                <div class = "col">
+                                    <img src="Banguela.png">
+                                </div>
+                                <div class = "col">
+                                    <img src="furia da luz.png">
+                                </div>
+                                <div class = "col">
+                                    <img src="Banguela.png">
+                                </div>
+                                <div class = "col">
+                                    <img src="furia da luz.png">
+                                </div>
+                    </div>   
+                    <div class = "row">
+                
+                      
+                        <div class = "col">
+                            <img src="furia da luz.png">
+                        </div>
+                        <div class = "col">
+                            <img src="Banguela.png">
+                        </div>
+                        <div class = "col">
+                            <img src="furia da luz.png">
+                        </div>
+                        <div class = "col">
+                            <img src="Banguela.png">
+                        </div>
+                        <div class = "col">
+                            <img src="furia da luz.png">
+                        </div>
+                        <div class = "col">
+                            <img src="Banguela.png">
+                        </div>
+                        <div class = "col">
+                            <img src="furia da luz.png">
+                        </div>
+                        <div class = "col">
+                            <img src="Banguela.png">
+                        </div>
+            </div>   
+    </div>
+    <img src="Juntos Pra Sempre.jpeg" class="imgdif">
+    <a href="https://www.youtube.com/watch?v=OgNqdEa0z4A" target="_blank">O Reencontro</a>
+
+    <section>Organizador</section>
+    <div class="botoes">
+        <botton class="botao">Relogio</botton>
+        <botton class="botao">Personagens</botton>
+        <botton class="botao">Filme</botton>
+        <botton class="botao">Dragões</botton>
+
+</div>
+</body>
+</html>
